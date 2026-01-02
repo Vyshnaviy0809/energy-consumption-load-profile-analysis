@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ⚡ Energy Consumption Load Profile Analysis
 
 An end-to-end data analytics project analysing half-hourly smart meter electricity consumption data, enriched with industry reference datasets, to uncover **when, where, and who** consumes the most energy.
@@ -141,6 +142,21 @@ A total of **23 DAX measures** were created, grouped into:
 
 ## 📊 Dashboard Overview (Power BI)
 
+### 📷 Dashboard Screenshots
+
+#### Overview
+![Overview](images/dashboard_overview.png)
+
+#### Load Profile
+![Load Profile](images/dashboard_load_profile.png)
+
+#### Customer Insights
+![Customer Insights](images/dashboard_customer_insights.png)
+
+#### Data Model (Star Schema)
+![Star Schema](images/star_schema.png)
+
+
 The report is structured into three analytical pages, each answering a specific business question.
 
 ### Page 1 — Overview: Energy Consumption Summary
@@ -228,7 +244,3 @@ This project demonstrates the ability to transform raw smart-meter data into a *
 - Which customer segments drive consumption?  
 
 It reflects real-world analytics work in **energy, utilities, and operations teams**, balancing technical depth with business clarity.
-
-
-
-
