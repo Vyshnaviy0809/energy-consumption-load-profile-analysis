@@ -3,38 +3,9 @@ sample_data/
 data/
 *.csv
 
-# Power BI files
-*.pbix
-powerbi_dashboard/
-
-# Images (add later)
-images/
-
-# System
-.DS_Store
-# Data folders
-sample_data/
-data/
-*.csv
-
-# Power BI
-*.pbix
-powerbi_dashboard/
-
-# Images (we'll add later)
-images/
-
-# OS / misc
-.DS_Store
-# Power BI temporary files
-*.pbix
-*.pbit
-
 # OS files
 .DS_Store
 
 # Secrets / credentials
 .env
 *.env
-
-
