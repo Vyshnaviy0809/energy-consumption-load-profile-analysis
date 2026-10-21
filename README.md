@@ -43,7 +43,7 @@ This simulates how energy analytics teams use smart-meter data to support:
 energy-consumption-load-profile-analysis/
 ├── documentation/
 │   └── calculations.md        # All DAX measures with explanations
-├── images/                    # Dashboard screenshots (added later)
+├── images/                    
 ├── powerbi_dashboard/         # PBIX or export assets (optional)
 ├── sample_data/               # Schema or mock structure only (no raw data)
 └── README.md
