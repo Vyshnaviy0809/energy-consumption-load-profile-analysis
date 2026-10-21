@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # ⚡ Energy Consumption Load Profile Analysis
 
 An end-to-end data analytics project analysing half-hourly smart meter electricity consumption data, enriched with industry reference datasets, to uncover **when, where, and who** consumes the most energy.
